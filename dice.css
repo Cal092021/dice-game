@@ -1,0 +1,22 @@
+
+body{border: 10px;background-color: green;
+}
+h1{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#rules{font-family: 'Courier New', Courier, monospace; 
+}
+#btn{background-color: hotpink;
+    
+        height: 3rem;
+        width: 5rem;
+        font-size: large;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+#playerScore{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+}
+#result{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
